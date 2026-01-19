@@ -7,7 +7,7 @@ una base de datos en Neon (una plataforma serverless de PostgreSQL) utilizando
 Docker y PHP. El objetivo era implementar funcionalidades CRUD sin depender de 
 las características nativas de PHP en Neon, ya que Neon no las soporta directamente.
 
-##Logros Parciales
+## Logros Parciales
 
 Configuración exitosa de un contenedor Docker con PHP y drivers necesarios para conectar a Neon.
 Conexión estable a la base de datos Neon.
